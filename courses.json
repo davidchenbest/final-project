@@ -1,0 +1,282 @@
+courses:[
+{
+  "code": "CUS 1102",
+  "title": "SOFTWARE APPLICATION",
+  "instructor": "Felicetti, Robert Alvaro",
+  "day": "TF, 1525-1650",
+  "availability": 0,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1102",
+  "title": "SOFTWARE APPLICATION",
+  "instructor": "Lieberman, Barry",
+  "day": "TF, 1350-1515",
+  "availability": 7,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1102",
+  "title": "SOFTWARE APPLICATION",
+  "instructor": "Lieberman, Barry",
+  "day": "TF, 1525-1650",
+  "availability": 18,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1102",
+  "title": "SOFTWARE APPLICATION",
+  "instructor": "Lander Lugo, Glenda",
+  "day": "TF, 1700-1825",
+  "availability": 19,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1102",
+  "title": "SOFTWARE APPLICATION",
+  "instructor": "Felicetti, Robert Alvaro",
+  "day": "TF, 1215-1340",
+  "availability": 0,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1115",
+  "title": "COMPUTER PROG FUND I",
+  "instructor": "DeBello, Joan",
+  "day": "MR, 0905-1030",
+  "availability": 0,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1115",
+  "title": "COMPUTER PROG FUND I",
+  "instructor": "Fluture, Simina",
+  "day": "W, 1040-1330",
+  "availability": 6,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "DeBello, Joan",
+  "day": "MR, 1040-1205",
+  "availability": 0,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "TBA",
+  "day": "TF, 1350-1515",
+  "availability": 13,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "TBA",
+  "day": "TF, 1215-1340",
+  "availability": 1,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "TBA",
+  "day": "TF, 1040-1205",
+  "availability": 0,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "TBA",
+  "day": "TF, 0905-1030",
+  "availability": 7,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1116",
+  "title": "COMPUTER PROG FUND II",
+  "instructor": "MacKellar, Bonnie",
+  "day": "MR, 1215-1340",
+  "availability": 10,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1126",
+  "title": "INTRO TO DATA STRUCTURES",
+  "instructor": "TBA",
+  "day": "TF, 1350-1515",
+  "availability": 17,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1126",
+  "title": "INTRO TO DATA STRUCTURES",
+  "instructor": "Yadav, Nikhil",
+  "day": "MR, 1525-1650",
+  "availability": 8,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1150",
+  "title": "SYSTEMS PROGRAMMING IN LINUX",
+  "instructor": "MacKellar, Bonnie",
+  "day": "MR, 1040-1205",
+  "availability": 7,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1151",
+  "title": "ADVANCED DATA STRUCTURES",
+  "instructor": "Keshtkar, Fazel",
+  "day": "T, 0905-1030",
+  "availability": 0,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1156",
+  "title": "SOFTWARE DESIGN METHODS",
+  "instructor": "MacKellar, Bonnie",
+  "day": "W, 1040-1330",
+  "availability": 19,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1156",
+  "title": "SOFTWARE DESIGN METHODS",
+  "instructor": "Yadav, Nikhil",
+  "day": "R, 1700-1825",
+  "availability": 0,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1163",
+  "title": "OPERATING SYSTEMS",
+  "instructor": "TBA",
+  "day": "W, 1350-1640",
+  "availability": 5,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1163",
+  "title": "OPERATING SYSTEMS",
+  "instructor": "Smith-Thompson, Anne",
+  "day": "MR, 0730-0855",
+  "availability": 9,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1165",
+  "title": "DATA BASE MANAGEMENT SYSTEMS",
+  "instructor": "Scorce, Richard",
+  "day": "MR, 1215-1340",
+  "availability": 0,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1165",
+  "title": "DATA BASE MANAGEMENT SYSTEMS",
+  "instructor": "Scorce, Richard",
+  "day": "R, 0905-1030",
+  "availability": 0,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1165",
+  "title": "DATA BASE MANAGEMENT SYSTEMS",
+  "instructor": "Bukhari, Syed Ahmad Chan",
+  "day": "W, 1040-1330",
+  "availability": 14,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1166",
+  "title": "SOFTWARE ENGINEERING",
+  "instructor": "TBA",
+  "day": "W, 1350-1640",
+  "availability": 17,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1166",
+  "title": "SOFTWARE ENGINEERING",
+  "instructor": "TBA",
+  "day": "MR, 1525-1650",
+  "availability": 1,
+  "type": "Lecture/Lab"
+},
+{
+  "code": "CUS 1167",
+  "title": "SYSTEMS ANALYSIS",
+  "instructor": "Scorce, Richard",
+  "day": "M, 0905-1030",
+  "availability": 0,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1172",
+  "title": "WEB PAGE GRAPHICS",
+  "instructor": "Christoforou, Christoforos",
+  "day": "R, 0730-0855",
+  "availability": 0,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1174",
+  "title": "ARTIFICIAL INTELLIGENCE",
+  "instructor": "Sklar, Ronald",
+  "day": "T, 1525-1650",
+  "availability": 17,
+  "type": "Hybrid-Classroom & Online"
+},
+{
+  "code": "CUS 1185",
+  "title": "DATA SECURITY & CRYPTOGRAPHY",
+  "instructor": "Troja, Erald",
+  "day": "MR, 1040-1205",
+  "availability": 0,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1185",
+  "title": "DATA SECURITY & CRYPTOGRAPHY",
+  "instructor": "Troja, Erald",
+  "day": "MR, 0905-1030",
+  "availability": 0,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1186",
+  "title": "THEORY OF COMPUTATION",
+  "instructor": "Fechter, Ronald",
+  "day": "T, 1700-1950",
+  "availability": 12,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1188",
+  "title": "ANALYSIS OF ALGORITHMS",
+  "instructor": "Christoforou, Christoforos",
+  "day": "T, 0730-0855",
+  "availability": 19,
+  "type": "Lecture"
+},
+{
+  "code": "CUS 1191",
+  "title": "COMPUTER SCIENCE INTERNSHIP",
+  "instructor": "Yadav, Nikhil",
+  "day": "HRS ARR",
+  "availability": 0,
+  "type": "Internship"
+},
+{
+  "code": "CUS 1192",
+  "title": "COMPUTER SCIENCE INTERNSHIP",
+  "instructor": "Yadav, Nikhil",
+  "day": "HRS ARR",
+  "availability": 0,
+  "type": "Internship"
+}
+]
