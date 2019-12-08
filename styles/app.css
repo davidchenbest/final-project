@@ -11,9 +11,6 @@ thead{
   font-size: 18px;
   font-weight: bold;
 }
-tr:hover{
-  background-color: lightblue;
-}
 
 form{
   display: flex;
