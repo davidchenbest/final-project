@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Search Classes</title>
+    <link rel="stylesheet" href="/styles/app.css">
+  </head>
+
+  <body>
+    <%- include('partials/nav') %>
+
+    <form class="" action="/courses/search" method="get">
+      <div class="code">
+        <label for="code"> Class Code</label>
+        <input type="text" name="code" value="" id='code'>
+      </div>
+      <div class="title">
+        <label for="title">Class Title</label>
+        <input type="text" name="title" value="" id='title'>
+      </div>
+      <div class="instructor">
+        <label for="instructor">Class Instructor</label>
+        <input type="text" name="instructor" value="" id='instructor'>
+      </div>
+      <div class="day">
+        <label for="day">Days</label>
+        <select id='day'>
+          <option value="">All</option>
+          <option value="M">Monday</option>
+          <option value="T">Tuesday</option>
+          <option value="W">Wednesday</option>
+          <option value="R">Thursday</option>
+          <option value="F">Friday</option>
+        </select>
+      </div>
+      <div class="availability">
+        <label for="availability">Availability</label>
+        <input type="text" name="availability" value="" id='availability'>
+      </div>
+      <div class="type">
+        <label for="type">Type</label>
+        <select id="type">
+          <option value="">All</option>
+          <option value="Lecture">Lecture</option>
+          <option value="Lecture/Lab">Lecture/Lab</option>
+          <option value="Hybrid">Hybrid</option>
+          <option value="Internship">Internship</option>
+        </select>
+      </div>
+      <div class="searchButton">
+        <button type="button" name="button" id='searchButton'>Submit</button>
+      </div>
+    </form>
+
+    <%- include('partials/table') %>
+  </body>
+
+  <script src="/javascript/app.js" charset="utf-8"></script>
+  
+</html>

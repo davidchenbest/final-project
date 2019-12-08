@@ -1,4 +1,4 @@
-courses:[
+[
 {
   "code": "CUS 1102",
   "title": "SOFTWARE APPLICATION",
@@ -278,5 +278,389 @@ courses:[
   "day": "HRS ARR",
   "availability": 0,
   "type": "Internship"
-}
+},
+{
+    "code": "IT 1011",
+    "title": "INFO TECHNOLOGY FOR BUSINESS",
+    "instructor": "Dick, Geoffrey",
+    "day": "MR, 0905-1030",
+    "availability": 13,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Cerulli, Thomas",
+    "day": "TF, 1215-1340",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Achtziger, Joseph",
+    "day": "S, 0830-1120",
+    "availability": 5,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Holliday, Kathleen",
+    "day": "TF, 0905-1030",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Malone, William",
+    "day": "TF, 1700-1825",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Achtziger, Joseph",
+    "day": "TF, 1215-1340",
+    "availability": 2,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Henry, Maureen",
+    "day": "W, 1910-2200",
+    "availability": 6,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1003",
+    "title": "INTRO TO COLLEGE MATH I",
+    "instructor": "Cerulli, Janet",
+    "day": "MR, 0905-1030",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1004",
+    "title": "INTRO TO COLLEGE MATH II",
+    "instructor": "Holliday, Kathleen",
+    "day": "TF, 1215-1340",
+    "availability": 4,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1007",
+    "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+    "instructor": "Chakraborty, Hector",
+    "day": "R, 1700-1950",
+    "availability": 20,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1007",
+    "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+    "instructor": "Elmrini, Abdel Aziz",
+    "day": "M, 1700-1950",
+    "availability": 7,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1007",
+    "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+    "instructor": "Manley, Michael",
+    "day": "TF, 1040-1205",
+    "availability": 4,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1007",
+    "title": "COLLEGE ALGEBRA & TRIGONOMETRY",
+    "instructor": "Manley, Michael",
+    "day": "TF, 0905-1030",
+    "availability": 3,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1008",
+    "title": "MATRIX METHODS",
+    "instructor": "Laneri, Peter",
+    "day": "TF, 0730-0855",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1008",
+    "title": "MATRIX METHODS",
+    "instructor": "Laneri, Peter",
+    "day": "TF, 0905-1030",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1009",
+    "title": "CALCULUS I",
+    "instructor": "Mollo-Holmes, Linda",
+    "day": "TF, 1215-1340",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1009",
+    "title": "CALCULUS I",
+    "instructor": "Elmrini, Abdel Aziz",
+    "day": "TF, 1525-1650",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1009",
+    "title": "CALCULUS I",
+    "instructor": "Chakraborty, Hector",
+    "day": "T, 1700-1950",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1009",
+    "title": "CALCULUS I",
+    "instructor": "Vaisfeld, Michael",
+    "day": "TF, 1525-1650",
+    "availability": 9,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1009",
+    "title": "CALCULUS I",
+    "instructor": "Mollo-Holmes, Linda",
+    "day": "TF, 1350-1515",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1010",
+    "title": "CALCULUS II",
+    "instructor": "Latzman, Gerald",
+    "day": "TF, 1040-1205",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1011",
+    "title": "CALCULUS III",
+    "instructor": "Servas, Frank",
+    "day": "W, 0730-1020",
+    "availability": 6,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1013",
+    "title": "PROBABILITY AND STATISTICS I",
+    "instructor": "Parmar, Davanjit",
+    "day": "TF, 1700-1825",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1013",
+    "title": "PROBABILITY AND STATISTICS I",
+    "instructor": "Parmar, Davanjit",
+    "day": "W, 1040-1330",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1013",
+    "title": "PROBABILITY AND STATISTICS I",
+    "instructor": "Servas, Frank",
+    "day": "T, 0905-1030",
+    "availability": 0,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "MTH 1014",
+    "title": "PROBABILITY AND STATISTICS II",
+    "instructor": "Servas, Frank",
+    "day": "T, 1040-1205",
+    "availability": 4,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "MTH 1014",
+    "title": "PROBABILITY AND STATISTICS II",
+    "instructor": "Singh, Satyanand",
+    "day": "R, 1700-1950",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1017",
+    "title": "MATHEMATICAL LOGIC",
+    "instructor": "Fechter, Ronald",
+    "day": "W, 1700-1825",
+    "availability": 0,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "MTH 1021",
+    "title": "INTRODUCTION TO STATISTICS",
+    "instructor": "McCauley, Marist Brothers, R.",
+    "day": "MR, 0730-0855",
+    "availability": 4,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1021",
+    "title": "INTRODUCTION TO STATISTICS",
+    "instructor": "McCauley, Marist Brothers, R.",
+    "day": "TF, 0730-0855",
+    "availability": 12,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1022",
+    "title": "DISCRETE MATHEMATICS",
+    "instructor": "Singh, Satyanand",
+    "day": "MR, 1525-1650",
+    "availability": 1,
+    "type": "Lecture"
+  },
+  {
+    "code": "MTH 1030",
+    "title": "MATH FOR ELEMENTARY TEACHER I",
+    "instructor": "Cerulli, Jane",
+    "day": "TF, 1350-1515",
+    "availability": 4,
+    "type": "Lecture"
+  },
+  {
+    "code": "NET 1011",
+    "title": "INTRODUCTION TO NETWORKS",
+    "instructor": "Greenidge, Maxine",
+    "day": "W, 0730-1020",
+    "availability": 3,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "NET 1015",
+    "title": "ROUTING & SWITCHING ESSENTIALS",
+    "instructor": "Rullan, John",
+    "day": "S, 0830-1120",
+    "availability": 9,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "NET 1031",
+    "title": "WIRELESS NETWORKING",
+    "instructor": "Fischman, Felix",
+    "day": "S, 1230-1520",
+    "availability": 20,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "NET 1091",
+    "title": "NETWORKING INTERNSHIP",
+    "instructor": "Yadav, Nikhil",
+    "day": "HRS ARR",
+    "availability": 0,
+    "type": "Internship"
+  },
+  {
+    "code": "HCI 1001",
+    "title": "INTRO HEALTHCARE INFORMATICS",
+    "instructor": "Bukhari, Syed Ahmad Chan",
+    "day": "W, 1040-1330",
+    "availability": 16,
+    "type": "Lecture"
+  },
+  {
+    "code": "HCI 1021",
+    "title": "HEALTHCARE DATABASE MGT SYS",
+    "instructor": "MacKellar, Bonnie",
+    "day": "W, 1040-1330",
+    "availability": 0,
+    "type": "Lecture"
+  },
+  {
+    "code": "HCI 1091",
+    "title": "HEALTHCARE INFORMATICS INTERN",
+    "instructor": "Yadav, Nikhil",
+    "day": "HRS ARR",
+    "availability": 0,
+    "type": "Internship"
+  },
+  {
+    "code": "CSS 1005",
+    "title": "FUNDAMENTALS OF CYBER SECURITY",
+    "instructor": "Otero, Juan",
+    "day": "MR, 1215-1340",
+    "availability": 0,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "CSS 1005",
+    "title": "FUNDAMENTALS OF CYBER SECURITY",
+    "instructor": "Otero, Juan",
+    "day": "M, 1610-1735",
+    "availability": 1,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "CSS 1005",
+    "title": "FUNDAMENTALS OF CYBER SECURITY",
+    "instructor": "Troja, Erald",
+    "day": "TF, 1215-1340",
+    "availability": 0,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "CSS 1006",
+    "title": "MGT OF INFORMATION SECURITY",
+    "instructor": "Dick, Geoffrey",
+    "day": "W, 1700-1950",
+    "availability": 3,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "CSS 1008",
+    "title": "HEALTHCARE INFO SECURITY",
+    "instructor": "Schmeelk, Suzanna",
+    "day": "F, 1040-1205",
+    "availability": 0,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "CSS 1015",
+    "title": "WIRELESS SECURITY",
+    "instructor": "Troja, Erald",
+    "day": "W, 1350-1640",
+    "availability": 0,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "CSS 1025",
+    "title": "INTERMED LINUX & UNIX SECURITY",
+    "instructor": "Naseem, Sajed",
+    "day": "HRS ARR",
+    "availability": 18,
+    "type": "Hybrid-Classroom & Online"
+  },
+  {
+    "code": "CSS 1032",
+    "title": "CYBER THREATS AND DETECTION",
+    "instructor": "Troja, Erald",
+    "day": "TF, 1040-1205",
+    "availability": 7,
+    "type": "Lecture/Lab"
+  },
+  {
+    "code": "CSS 1091",
+    "title": "COMP SECURITY SYS INTERNSHIP",
+    "instructor": "Yadav, Nikhil",
+    "day": "TF, 1040-1205",
+    "availability": 0,
+    "type": "Internship"
+  }
 ]
