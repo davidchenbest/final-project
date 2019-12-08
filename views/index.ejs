@@ -9,7 +9,55 @@
   <body>
     <%- include('partials/nav') %>
 
-    <%- include('partials/form') %>
+    <form class="" action="/courses/search" method="get">
+      <div class="code">
+        <label for="code"> Class Code</label>
+        <input type="text" name="code" value="" id='code'>
+      </div>
+      <div class="title">
+        <label for="title">Class Title</label>
+        <input type="text" name="title" value="" id='title'>
+      </div>
+      <div class="instructor">
+        <label for="instructor">Class Instructor</label>
+        <input type="text" name="instructor" value="" id='instructor'>
+      </div>
+      <div class="day">
+        <label for="day">Days</label>
+
+        <select id='day'>
+          <option value="">All</option>
+          <option value="m">Monday</option>
+          <option value="t">Tuesday</option>
+          <option value="w">Wednesday</option>
+          <option value="r,">Thursday</option>
+          <option value="f">Friday</option>
+          <option value="s,">Saturday</option>
+          <option value="mr">MR</option>
+          <option value="tf">TF</option>
+          <option value="hrs arr">HRS ARR</option>
+
+        </select>
+      </div>
+      <div class="availability">
+        <label for="availability">Availability</label>
+        <input type="text" name="availability" value="" id='availability'>
+      </div>
+      <div class="type">
+        <label for="type">Type</label>
+        <select id="type">
+          <option value="">All</option>
+          <option value="lecture">Lecture</option>
+          <option value="lecture/lab">Lecture/Lab</option>
+          <option value="hybrid">Hybrid</option>
+          <option value="internship">Internship</option>
+        </select>
+      </div>
+      <div class="searchButton">
+        <button type="button" name="button" id='searchButton'>Submit</button>
+      </div>
+    </form>
+
 
     <%- include('partials/table') %>
   </body>
