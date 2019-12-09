@@ -26,6 +26,8 @@ div{
 input{
   border-radius: 3px;
   height: 25px;
+  padding:5px;
+  padding-bottom: 10px;
 }
 
 /*submit button*/
