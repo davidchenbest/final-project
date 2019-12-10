@@ -2,6 +2,7 @@
 var express = require('express');
 
 var app = express();
+var router = express.Router();
 
 app.set('view engine', 'ejs');
 
@@ -13,10 +14,11 @@ app.get('/', function(req,res){
   res.render('index');
 });
 
-app.get('/courses', function(req,res){
+router.get('/courses', function(req,res){
   qcode = req.query
   res.render('courses', qcode);
 });
+app.use('/',router);
 
 //api
 app.get('/courses/search', function(req,res){
