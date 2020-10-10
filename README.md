@@ -1,4 +1,6 @@
-# final-project
+https://university-search-program.herokuapp.com/
+
+# Run Locally
 Specification:
 My application has one route. The form can take all the parameters and query them from a single api. I specified one single api to check for all parameters and it returns a single json file. To query all courses, leave the form blank and click submit button. You can also query a combination of  class attributes or all. It does this by fetching a json file from the api I have made in the app.js. There are also links on top. You can click to query for a specific courses such as computer science, mathematics, and etc. As for the styling, I used a bootstrap template to style the query table results. I also specified two media type screens in the css file.
 
